@@ -1,4 +1,4 @@
-#!/Users/jvandenberghe/.nvm/versions/node/v12.10.0/bin/node
+#!/Users/sam.plews/.nvm/versions/node/v14.12.0/bin/node
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 process.title = 'googlemeetbridge';
